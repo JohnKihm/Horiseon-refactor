@@ -20,6 +20,7 @@ h1 {
     font-size: 48px;
 }
 
+/*Makes "seo" a different color from the rest of the word "Horiseon"*/
 .seo {
     color: #d9dcd6;
 }
@@ -46,7 +47,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/*Sets the size and margins for the image*/
+.meeting {
     display: block;
     margin-left: auto;
     margin-right: auto;
