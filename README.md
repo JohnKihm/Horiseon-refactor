@@ -18,7 +18,7 @@ The purpose of the site is to inform users of how to optimize their platform for
 
 ## Usage
 
-![Horiseon Homepage](./Develop/assets/images/screenshot.png)
+![Horiseon Homepage](./assets/images/screenshot.png)
 
 ## Credits
 
